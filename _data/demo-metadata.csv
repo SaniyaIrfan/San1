@@ -1,2 +1,12 @@
 objectid,filename,title,creator,date,description,subject,location,source,type,format,language,rights,rightsstatement
 sample1,objects/BookCollection_page-0001.jpg,BookCollection_page,San,2023,Front page of the Marsiya collection, Sample Digital Archive, Meerut, Private library, xyz, jpg, Urdu, applicable, Sample
+sample2,objects/Intro_page-00011.jpg,Introduction_page,San,1981,Front page of the Marsiya collection, Marsiya Collection, Lucknow, Private library, xyz, jpg, Urdu, applicable, Sample
+sample3,objects/ProphetMuhdPBUH_page-0001.jpg,Marsiya of Prophet SAW PBUH,San,1830,Urdu Marsiya, Prophet Mohammad SAW PBUH, Awadh, Private library, xyz, jpg, Urdu, applicable, Sample
+sample4,objects/HzAli_page-0001.jpg,Marsiya of Hazrat Ali,San,1831,Urdu Marsiya, Hazrat Ali, Lucknow, Private library, xyz, jpg, Urdu, applicable, Sample
+sample5,objects/ImamHasan_page-0001.jpg,Marsiya of Imam Hasan,San,1832,Urdu Marsiya, Imam Hasan, Hyderabad, Private library, xyz, jpg, Urdu, applicable, Sample
+sample6,objects/HzMuslim_page-0001.jpg,Marsiya of Hazrat Muslim,San,1833,Urdu Marsiya, Hazrat Muslim, Hyderabad, Private library, xyz, jpg, Urdu, applicable, Sample
+sample7,objects/HzAunoMuhd_page-0001.jpg,Marsiya of AunoMuhammad,San,1834,Urdu Marsiya, Hazrat AunoMuhammad, Bijnour, Private library, xyz, jpg, Urdu, applicable, Sample
+sample8,objects/HzAliAkbar_page-0001.jpg,Marsiya of Hazrat Ali Akbar,San,1835,Urdu Marsiya, Hazrat Ali Akbar, Amroha, Private library, xyz, jpg, Urdu, applicable, Sample
+sample9,objects/HzQasim_page-0001.jpg,Marsiya of Hazrat Qasim,San,1836,Urdu Marsiya, Hazrat Qasim, Delhi, Private library, xyz, jpg, Urdu, applicable, Sample
+sample10,objects/HzAbbas_page-0001.jpg,Marsiya of Hazrat Abbas,San,1837,Urdu Marsiya, Hazrat Abbas, Sultanpur, Private library, xyz, jpg, Urdu, applicable, Sample
+sample11,objects/ImamHusain_page-0001.jpg,Marsiya of Imam Husain,San,1838,Urdu Marsiya, Imam Husain, Rampur, Private library, xyz, jpg, Urdu, applicable, Sample

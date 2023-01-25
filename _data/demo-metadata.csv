@@ -1,2 +1,2 @@
-objectid,filename,youtubeid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+objectid,filename,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
 sample1,BookCollection_page-0001,BookCollection_page,San,2023,Front page of the Marsiya collection, Sample Digital Archive, Meerut, 1, 1, Private library, xyz, jpg, Urdu, applicable, Sample
